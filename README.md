@@ -79,14 +79,13 @@
 - immutable对象构建算法
 - React组件生命周期
 - React最新特性学习
-- 服务器端渲染及其原理
-- vue中双向绑定
+- CSR（Client Side Rendering）网页首帧优化总结
 - Redux原理
-- Vuex原理
 - 前端路由控制原理
-- React高阶函数最佳实践
 - React性能优化
+- React事件系统
 - MVVM双向绑定原理
+  - vue中双向绑定
 
 ## Webpack
 
@@ -104,8 +103,9 @@ https://segmentfault.com/a/1190000011155061
 
 ## 源码阅读
 
-- Koa
-- Eggjs
+- [Koa](https://github.com/koajs/koa)
+- [Eggjs](https://github.com/eggjs/egg)
+- [MVVM](https://github.com/DMQ/mvvm)
 - 待续
 
 ## Node
@@ -150,6 +150,7 @@ https://segmentfault.com/a/1190000011155061
   - 红黑树算法
   - hash算法
   - 最短路径算法
+  - LRU算法
 
 ## 现代前沿技术
 
@@ -160,6 +161,7 @@ https://segmentfault.com/a/1190000011155061
 - 预渲染、SSR、服务器渲染原理
 - webworker技术优化项目
 - webComponent技术
+- TypeScript学习
 
 ## Linux
 
