@@ -90,6 +90,10 @@
 - MVVM双向绑定原理
   - vue中双向绑定
 
+## Serverless基础
+- [基础知识](https://juejin.im/post/5d42945ff265da03a715b2f0)
+
+
 ## Webpack
 
 - 项目实战
